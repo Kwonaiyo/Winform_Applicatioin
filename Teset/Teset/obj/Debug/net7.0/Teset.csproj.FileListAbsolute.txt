@@ -1,0 +1,15 @@
+C:\WinformApplication\Teset\Teset\obj\Debug\net7.0\Teset.csproj.AssemblyReference.cache
+C:\WinformApplication\Teset\Teset\obj\Debug\net7.0\Teset.GeneratedMSBuildEditorConfig.editorconfig
+C:\WinformApplication\Teset\Teset\obj\Debug\net7.0\Teset.AssemblyInfoInputs.cache
+C:\WinformApplication\Teset\Teset\obj\Debug\net7.0\Teset.AssemblyInfo.cs
+C:\WinformApplication\Teset\Teset\obj\Debug\net7.0\Teset.csproj.CoreCompileInputs.cache
+C:\WinformApplication\Teset\Teset\bin\Debug\net7.0\Teset.exe
+C:\WinformApplication\Teset\Teset\bin\Debug\net7.0\Teset.deps.json
+C:\WinformApplication\Teset\Teset\bin\Debug\net7.0\Teset.runtimeconfig.json
+C:\WinformApplication\Teset\Teset\bin\Debug\net7.0\Teset.dll
+C:\WinformApplication\Teset\Teset\bin\Debug\net7.0\Teset.pdb
+C:\WinformApplication\Teset\Teset\obj\Debug\net7.0\Teset.dll
+C:\WinformApplication\Teset\Teset\obj\Debug\net7.0\refint\Teset.dll
+C:\WinformApplication\Teset\Teset\obj\Debug\net7.0\Teset.pdb
+C:\WinformApplication\Teset\Teset\obj\Debug\net7.0\Teset.genruntimeconfig.cache
+C:\WinformApplication\Teset\Teset\obj\Debug\net7.0\ref\Teset.dll

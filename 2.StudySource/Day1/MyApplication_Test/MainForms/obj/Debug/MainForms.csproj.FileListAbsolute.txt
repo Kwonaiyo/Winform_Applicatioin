@@ -1,0 +1,11 @@
+C:\WinformApplication\2.StudySource\Day1\MyApplication_Test\MainForms\bin\Debug\MainForms.exe.config
+C:\WinformApplication\2.StudySource\Day1\MyApplication_Test\MainForms\bin\Debug\MainForms.exe
+C:\WinformApplication\2.StudySource\Day1\MyApplication_Test\MainForms\bin\Debug\MainForms.pdb
+C:\WinformApplication\2.StudySource\Day1\MyApplication_Test\MainForms\obj\Debug\MainForms.csproj.AssemblyReference.cache
+C:\WinformApplication\2.StudySource\Day1\MyApplication_Test\MainForms\obj\Debug\MainForms.csproj.SuggestedBindingRedirects.cache
+C:\WinformApplication\2.StudySource\Day1\MyApplication_Test\MainForms\obj\Debug\MainForms.Login.resources
+C:\WinformApplication\2.StudySource\Day1\MyApplication_Test\MainForms\obj\Debug\MainForms.Properties.Resources.resources
+C:\WinformApplication\2.StudySource\Day1\MyApplication_Test\MainForms\obj\Debug\MainForms.csproj.GenerateResource.cache
+C:\WinformApplication\2.StudySource\Day1\MyApplication_Test\MainForms\obj\Debug\MainForms.csproj.CoreCompileInputs.cache
+C:\WinformApplication\2.StudySource\Day1\MyApplication_Test\MainForms\obj\Debug\MainForms.exe
+C:\WinformApplication\2.StudySource\Day1\MyApplication_Test\MainForms\obj\Debug\MainForms.pdb

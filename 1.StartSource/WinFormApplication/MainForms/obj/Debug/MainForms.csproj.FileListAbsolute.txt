@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\WinFormApplication\MainForms\bin\Debug\MainForms.exe.config
+C:\Users\admin\source\repos\WinFormApplication\MainForms\bin\Debug\MainForms.exe
+C:\Users\admin\source\repos\WinFormApplication\MainForms\bin\Debug\MainForms.pdb
+C:\Users\admin\source\repos\WinFormApplication\MainForms\obj\Debug\MainForms.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\WinFormApplication\MainForms\obj\Debug\MainForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\WinFormApplication\MainForms\obj\Debug\MainForms.Form1.resources
+C:\Users\admin\source\repos\WinFormApplication\MainForms\obj\Debug\MainForms.Properties.Resources.resources
+C:\Users\admin\source\repos\WinFormApplication\MainForms\obj\Debug\MainForms.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\WinFormApplication\MainForms\obj\Debug\MainForms.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WinFormApplication\MainForms\obj\Debug\MainForms.exe
+C:\Users\admin\source\repos\WinFormApplication\MainForms\obj\Debug\MainForms.pdb

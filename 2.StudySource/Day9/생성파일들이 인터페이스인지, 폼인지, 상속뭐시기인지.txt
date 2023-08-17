@@ -1,0 +1,12 @@
+Services 내에 IChildCommand.cs -> 인터페이스로 생성.
+	     BaseChildForm -> 양식(Windows Forms)
+		BaseChildForm -- IChildCommand라는 Interface를 직접적으로 상속..
+				다른 클래스들이 IChildCommand 내에 필요한 메서드들만을 호출하여 사용할 수 있도록 유화시키는 역할을 한다 .. 
+			        -- 따라서 BaseChildForm에서 IChildCommand를 상속하여 IChildCommand 내부의 메서드들을  virtual로 생성해줌으로써 Interface의 상속 조건을 만족시킴과 동시에, BaseChildForm을 상속받고자 하는 클래스들에게 BaseChildForm 내부의 메서드들을 선택하여 상속받을 수 있게(virture, override) 해준다. 
+
+
+FormList 내부에 UserMaster_T -> 상속된 양식(Windows Forms)
+	         UserMaster_Refactoring -> 상속된 양식(Windows Forms)
+		(만약 상속된 양식 생성 후 BaseChildForm이 상속할 구성 요소에 표시되지 않을때는, 빌드 체크 !)
+
+Service 내부, GridUtil -> 클래스로 생성

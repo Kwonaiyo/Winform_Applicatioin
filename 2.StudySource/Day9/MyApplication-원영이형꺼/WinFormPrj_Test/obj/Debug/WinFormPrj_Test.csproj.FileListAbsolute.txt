@@ -1,0 +1,9 @@
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication\WinFormPrj_Test\bin\Debug\WinFormPrj_Test.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication\WinFormPrj_Test\bin\Debug\WinFormPrj_Test.pdb
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication\WinFormPrj_Test\obj\Debug\WinFormPrj_Test.csproj.AssemblyReference.cache
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication\WinFormPrj_Test\obj\Debug\WinFormPrj_Test.Properties.Resources.resources
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication\WinFormPrj_Test\obj\Debug\WinFormPrj_Test.csproj.GenerateResource.cache
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication\WinFormPrj_Test\obj\Debug\WinFormPrj_Test.csproj.CoreCompileInputs.cache
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication\WinFormPrj_Test\obj\Debug\WinFormPrj_Test.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication\WinFormPrj_Test\obj\Debug\WinFormPrj_Test.pdb
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication\WinFormPrj_Test\obj\Debug\WinFormPrj_Test.csproj.SuggestedBindingRedirects.cache

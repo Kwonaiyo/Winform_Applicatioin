@@ -1,0 +1,76 @@
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day2\MyApplication\Services\bin\Debug\Services.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day2\MyApplication\Services\bin\Debug\Services.pdb
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day2\MyApplication\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day2\MyApplication\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day2\MyApplication\Services\obj\Debug\Services.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day2\MyApplication\Services\obj\Debug\Services.pdb
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day3\MyApplication\Services\bin\Debug\Services.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day3\MyApplication\Services\bin\Debug\Services.pdb
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day3\MyApplication\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day3\MyApplication\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day3\MyApplication\Services\obj\Debug\Services.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day3\MyApplication\Services\obj\Debug\Services.pdb
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication\Services\bin\Debug\Services.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication\Services\bin\Debug\Services.pdb
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication\Services\obj\Debug\Services.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication\Services\obj\Debug\Services.pdb
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication\Services\bin\Debug\MetroFramework.Design.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication\Services\bin\Debug\MetroFramework.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication\Services\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication - 페이지 검사 혼자\Services\bin\Debug\Services.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication - 페이지 검사 혼자\Services\bin\Debug\Services.pdb
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication - 페이지 검사 혼자\Services\bin\Debug\MetroFramework.Design.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication - 페이지 검사 혼자\Services\bin\Debug\MetroFramework.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication - 페이지 검사 혼자\Services\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication - 페이지 검사 혼자\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication - 페이지 검사 혼자\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication - 페이지 검사 혼자\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication - 페이지 검사 혼자\Services\obj\Debug\Services.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day4\MyApplication - 페이지 검사 혼자\Services\obj\Debug\Services.pdb
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\bin\Debug\Services.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\bin\Debug\Services.pdb
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\bin\Debug\MetroFramework.Design.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\bin\Debug\MetroFramework.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\obj\Debug\Services.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\obj\Debug\Services.pdb
+C:\Users\9472\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\bin\Debug\Services.dll
+C:\Users\9472\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\bin\Debug\Services.pdb
+C:\Users\9472\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\bin\Debug\MetroFramework.Design.dll
+C:\Users\9472\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\bin\Debug\MetroFramework.dll
+C:\Users\9472\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\9472\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\9472\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\9472\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\9472\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\obj\Debug\Services.dll
+C:\Users\9472\OneDrive\스마트팩토리\WinForm\2.StudySource\Day6\MyApplication\Services\obj\Debug\Services.pdb
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day7\MyApplication\Services\bin\Debug\Services.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day7\MyApplication\Services\bin\Debug\Services.pdb
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day7\MyApplication\Services\bin\Debug\MetroFramework.Design.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day7\MyApplication\Services\bin\Debug\MetroFramework.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day7\MyApplication\Services\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day7\MyApplication\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day7\MyApplication\Services\obj\Debug\Services.BaseChildForm.resources
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day7\MyApplication\Services\obj\Debug\Services.csproj.GenerateResource.cache
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day7\MyApplication\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day7\MyApplication\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day7\MyApplication\Services\obj\Debug\Services.dll
+C:\Users\gram\OneDrive\스마트팩토리\WinForm\2.StudySource\Day7\MyApplication\Services\obj\Debug\Services.pdb
+C:\WinformApplication\2.StudySource\Day7\MyApplication-원영이형꺼\Services\bin\Debug\Services.dll
+C:\WinformApplication\2.StudySource\Day7\MyApplication-원영이형꺼\Services\bin\Debug\Services.pdb
+C:\WinformApplication\2.StudySource\Day7\MyApplication-원영이형꺼\Services\bin\Debug\MetroFramework.Design.dll
+C:\WinformApplication\2.StudySource\Day7\MyApplication-원영이형꺼\Services\bin\Debug\MetroFramework.dll
+C:\WinformApplication\2.StudySource\Day7\MyApplication-원영이형꺼\Services\bin\Debug\MetroFramework.Fonts.dll
+C:\WinformApplication\2.StudySource\Day7\MyApplication-원영이형꺼\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\WinformApplication\2.StudySource\Day7\MyApplication-원영이형꺼\Services\obj\Debug\Services.BaseChildForm.resources
+C:\WinformApplication\2.StudySource\Day7\MyApplication-원영이형꺼\Services\obj\Debug\Services.csproj.GenerateResource.cache
+C:\WinformApplication\2.StudySource\Day7\MyApplication-원영이형꺼\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\WinformApplication\2.StudySource\Day7\MyApplication-원영이형꺼\Services\obj\Debug\Services.csproj.CopyComplete
+C:\WinformApplication\2.StudySource\Day7\MyApplication-원영이형꺼\Services\obj\Debug\Services.dll
+C:\WinformApplication\2.StudySource\Day7\MyApplication-원영이형꺼\Services\obj\Debug\Services.pdb
